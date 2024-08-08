@@ -12,8 +12,7 @@ function App() {
       sessionName: 'test',
       userName: 'React',
       sessionPasscode: '123',
-      // features: ['video', 'audio', 'settings', 'users', 'chat', 'share']
-      features: ['video', 'audio']
+      features: ['video', 'audio', 'settings', 'users', 'chat', 'share']
   };
   let role = 1
 
